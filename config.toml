@@ -1,0 +1,4 @@
+baseURL = 'https://www.andyferris.au/'
+languageCode = 'en-us'
+title = "Andy Ferris"
+theme = "ananke"
