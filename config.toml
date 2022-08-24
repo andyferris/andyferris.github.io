@@ -1,4 +1,41 @@
 baseURL = 'https://www.andyferris.au/'
 languageCode = 'en-us'
-title = "Andy Ferris"
-theme = "ananke"
+title = "Andy  Ferris"
+theme = "hugo-coder"
+
+paginate = 20
+
+pygmentsstyle = "vs"
+pygmentscodefences = true
+pygmentscodefencesguesssyntax = true
+
+[params]
+  background_color = "#357EDD"
+  author = "Andy Ferris"
+  description = "Personal blog of Andy Ferris"
+  info = "Computers and math for fun and profit"
+  avatarurl = "images/avatar.png"
+  keywords = "blog,developer,personal"
+
+  since = 2022
+
+  customCSS = ["css/custom.css"]
+
+  
+
+# Social links
+[[params.social]]
+  name = "Github"
+  icon = "fa fa-github fa-2x"
+  weight = 1
+  url = "https://github.com/andyferris/"
+[[params.social]]
+  name = "Linked In"
+  icon = "fa fa-linkedin fa-2x"
+  weight = 1
+  url = "https://www.linkedin.com/in/andrewjamesferris/?originalSubdomain=au"
+
+[[menu.main]]
+  name = "Blog"
+  weight = 1
+  url  = "posts/"
