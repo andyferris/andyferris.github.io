@@ -1,0 +1,9 @@
+# About me
+
+Hi! I'm Andy Ferris, a software developer living in Brisbane, Australia.
+
+My technical passions range from data science, data engineering and software design through to maths, physics, and information theory. These days I work at a [start-up](https://elaraai.com) where we are building a platform to optimize businesses, and I face a wide range of challenges where I can extend and apply my skills. Previously I [worked](https://www.fugro.com/our-services/asset-integrity/roames-power) within a team of talented cloud engineers and researchers on a system to process petabytes of geospatial data, extracting features and detecting issues in power distribution networks worldwide. Prior to that I was a researcher in theoretical/computational quantum physics and quantum information theory, which was a lot of fun.
+
+As you can see, I like computers and math and love learning new things! I also enjoy teaching, and am currently helping teach [a course](https://courses.smp.uq.edu.au/MATH2504) at the University of Queensland. I am also married to a _lovely_ teacher, and we have three children which were the best products of my three postdoctoral appointments. Fun fact — they were born on [three](https://uq.edu.au) [different](https://www.usherbrooke.ca/) [continents](https://icfo.eu) 🌏🌎🌍
+
+On that note, I love to travel and explore the world and nature. I also enjoy movies, books, cards & board games, beer, hanging out with friends and family, our pets, gardening, writing and cooking. When I was younger I spent a lot of time gaming, where I first learned the value of a hexeditor. (Of course, when I _started_ playing computer games as a young child, you had to either type the program into the console in BASIC, or wait for the game to load... [from an audio cassette](https://en.wikipedia.org/wiki/Amstrad_CPC_464)!)
